@@ -18,7 +18,7 @@ var mongoose = require('mongoose');
 mongoose.connect(config.mongo.uri, config.mongo.options);
 
 console.log('Making public folder public...');
-app.use(express.static('../public'));
+app.use(express.static('./public'));
 
 console.log('Adding Middlewares...');
 //Adding body-parser as first middleware
