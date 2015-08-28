@@ -1,0 +1,5 @@
+.boxed {
+  padding: 10px;
+  border: 10px solid #CCC;
+  display: inline-block;
+}
