@@ -40,7 +40,7 @@
     "grunt-contrib-copy": "^0.8.0",
     "grunt-mocha-test": "^0.12.7",
     "grunt-nodemon": "^0.4.0",
-    "jquery": "^2.1.4",
+    "jquery": "~>3.0.0",
     "jquery.cookie": "^1.4.1",
     "mocha": "^2.2.5",
     "mongodb": "^2.0.36",
